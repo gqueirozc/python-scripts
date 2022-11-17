@@ -13,7 +13,7 @@ while i!=0:
     lastnumber = fibonnaci
     i-=1
     
-input(sys.exit())
+input()
 
 
 
